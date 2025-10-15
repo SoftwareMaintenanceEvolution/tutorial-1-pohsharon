@@ -3,6 +3,9 @@
 Hi! I'm Poh Sharon, a student in the Framework-Based Software Design and Development course. 
 I look forward to learning modern software maintenance practices and effective approaches to managing and improving legacy systems.
 
+- **Fun fact**: I love playing frisbee in my free time.
+- **Course expectations**: I hope to gain practical experience in maintaining, improving, and evolving existing software systems.
+
 ![My Image](profile.png)
 
 ## GitHub Profile
